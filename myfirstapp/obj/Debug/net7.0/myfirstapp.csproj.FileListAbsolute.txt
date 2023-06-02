@@ -1,0 +1,15 @@
+C:\Users\dardy\Desktop\projects\myfirstapp\bin\Debug\net7.0\myfirstapp.exe
+C:\Users\dardy\Desktop\projects\myfirstapp\bin\Debug\net7.0\myfirstapp.deps.json
+C:\Users\dardy\Desktop\projects\myfirstapp\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\Users\dardy\Desktop\projects\myfirstapp\bin\Debug\net7.0\myfirstapp.dll
+C:\Users\dardy\Desktop\projects\myfirstapp\bin\Debug\net7.0\myfirstapp.pdb
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.dll
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.pdb
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\Users\dardy\Desktop\projects\myfirstapp\obj\Debug\net7.0\ref\myfirstapp.dll
